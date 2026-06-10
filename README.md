@@ -10,6 +10,10 @@ I am building a career in Governance, Risk, Compliance (GRC), Third-Party Risk M
 * NHS Clinical SWAP Graduate
 * Level 3 Networking & Cybersecurity
 * EPIC EHR Training
+* NHS Clinical Swap Gradute
+* NCFE Healthcare Qualifications
+* Power BI Learner
+* TPRM & AI Governance Learner
 * Governance, Risk and Compliance (GRC) Learner
 * Third-Party Risk Management (TPRM) Learner
 
